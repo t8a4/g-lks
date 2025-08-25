@@ -1,0 +1,156 @@
+{
+  "games": [
+    {
+      "id": "galactic-dragon",
+      "name": "Галактически Дракон",
+      "instructions": "Използвай стрелките за движение и събирай звезди в космоса! Внимавай да не се удариш в астероиди.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "space-snake",
+      "name": "Космическа Змия",
+      "instructions": "Контролирай змията с клавишите WASD или стрелките. Събирай храна и расти, но не се удряй в стените!",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "star-snake",
+      "name": "Звездна Змия",
+      "instructions": "Движи се из звездното поле и събирай енергийни кристали. Колкото повече събереш, толкова по-дълга ставаш!",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "lunar-battle",
+      "name": "Лунна Битка",
+      "instructions": "Защитавай лунната база от нашествието на извънземни. Използвай мишката за прицелване и клик за стрелба.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "asteroid-shooter",
+      "name": "Астероиден Шутър",
+      "instructions": "Унищожавай астероиди преди да достигнат Земята. Стреляй с Space и се движи със стрелките.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "planetary-jumper",
+      "name": "Планетарен Джъмпър",
+      "instructions": "Скачай от планета на планета в безкрайния космос. Използвай Space за скок и стрелките за посока.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "robot-arena",
+      "name": "Роботска Арена",
+      "instructions": "Сражавай се с други роботи в арената. WASD за движение, мишка за прицелване, клик за атака.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "cyborg-racer",
+      "name": "Киборг Рейсър",
+      "instructions": "Кара киборг мотор в бъдещето. Стрелки за управление, Space за турбо ускорение.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "neo-tetris",
+      "name": "Нео Тетрис",
+      "instructions": "Класически Тетрис с неонов дизайн. Стрелки за движение, Space за завъртане на блоковете.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "digital-maze",
+      "name": "Дигитален Лабиринт",
+      "instructions": "Намери изхода от дигиталния лабиринт. Събирай ключове и избягвай вирусите. WASD за движение.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "hacker-mission",
+      "name": "Хакерска Мисия",
+      "instructions": "Проникни в защитените системи и открий тайните файлове. Реши пъзели за да напреднеш.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "virtual-reality",
+      "name": "Виртуална Реалност",
+      "instructions": "Изследвай виртуални светове и събирай данни. Мишка за поглед, WASD за движение.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "pixel-wars",
+      "name": "Пиксел Войни",
+      "instructions": "Битка в пикселен свят! Стреляй с врагове и събирай power-up-ове. Стрелки + Space за стрелба.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "retro-adventure",
+      "name": "Ретро Авантюра",
+      "instructions": "Класическа платформена игра с ретро графики. Скачай, бягай и събирай монети!",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "code-breaker",
+      "name": "Код Брейкър",
+      "instructions": "Разбий секретни кодове и отключи мистериите. Използвай логиката си за да решиш пъзелите.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "matrix-escape",
+      "name": "Матрикс Бягство",
+      "instructions": "Избягай от Матрицата! Движи се бързо и избягвай агентите. WASD за движение, Shift за бягане.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "electronic-surfing",
+      "name": "Електронен Сърфинг",
+      "instructions": "Сърфирай по електронни вълни в киберпространството. Стрелки за баланс и трикове.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "program-puzzle",
+      "name": "Програмен Пъзел",
+      "instructions": "Реши програмни задачи и създай работещ код. Използвай логиката за да подредиш блоковете правилно.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "algorithm-quest",
+      "name": "Алгоритъм Квест",
+      "instructions": "Пътешествай през света на алгоритмите. Реши задачи за да отключиш нови нива.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "byte-hunter",
+      "name": "Байтов Ловец",
+      "instructions": "Лови байтове в компютърната мрежа. Бързо движение и точност са ключови за успеха!",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    },
+    {
+      "id": "server-defense",
+      "name": "Сървърна Защита",
+      "instructions": "Защитавай сървъра от хакерски атаки. Построй защитни системи и отблъсквай нападенията.",
+      "path": "games/snake.html",
+      "thumbnail": "public/game-thumb.jpg"
+    }
+  ],
+  "topGames": [
+    "galactic-dragon",
+    "space-snake", 
+    "star-snake"
+  ]
+}
